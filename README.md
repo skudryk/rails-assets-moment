@@ -1,6 +1,5 @@
-# This version of rails-assets-moment exclude partial js templates to prevent Uglifier errors during assets compilation
+## This version of rails-assets-moment exclude partial js templates to prevent Uglifier errors during assets compilation
 
----
 
 ## rails-assets-moment
 
